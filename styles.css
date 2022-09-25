@@ -1,0 +1,23 @@
+body {
+    background:burlywood;
+}
+h1 {
+    text-align: center;
+}
+h1, h2 {
+    font-family: georgia;
+    font-weight: bold;
+}
+#menu{
+    font-family: Helvetica;
+    font-size: 18px;
+}
+.image {
+    background-image: url("https://clarksvillenow.sagacom.com/files/2018/07/mcdonalds-shutterstock-1170x768.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px; 
+}
+.caption{
+    opacity:0.75
+}
